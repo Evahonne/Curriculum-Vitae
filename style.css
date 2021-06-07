@@ -152,6 +152,13 @@ a:visited {
     color: white;
     
 }
+.contact li
+{   
+    list-style-type: none;
+    color: white;
+    margin: 27px;
+}
+
 
 #style {
     text-decoration: underline  #68954b;
