@@ -32,9 +32,9 @@
 
 /* fonts  fontawesome (https://fontawesome.com) great thanks to them.*/
 
-.fa-snowboarding,.fa-music,.fa-hiking {
+.fa-snowboarding,.fa-music,.fa-hiking, .fa-playstation {
     font-size: 3rem;
-
+    text-shadow: -4px 3px grey;
 }
 
 .fa-university, .fa-briefcase, .fa-calendar-alt {
