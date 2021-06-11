@@ -48,13 +48,13 @@ body {
     font-size: 0.8em bold;
 }
 a {
-    color: white;
+    color: whitesmoke;
     text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: dotted;
     color: black;
-    text-shadow: 3px 4px 5px grey;
+    text-shadow: 3px 4px 5px darkgrey;
 }
 a:focus {
     color: black;
@@ -117,7 +117,7 @@ a:visited {
 }
 .entete {
     text-align: right;
-    margin-right: 40px;
+    margin-right: 130px;
 }
 #prenom {
     color: #68954b;
