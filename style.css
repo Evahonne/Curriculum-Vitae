@@ -132,7 +132,7 @@ a:visited {
 }
 
 .myself {
-    padding: 15px;
+    padding: 27px;
     text-align: justify;
     color: white;
     flex-grow: 1;
@@ -166,7 +166,10 @@ a:visited {
     
 
 }
-
+.entete{
+    text-align: right;
+    margin-right: 13%;
+}
 
 #prenom {
     color: #68954b;
