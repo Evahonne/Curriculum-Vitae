@@ -6,7 +6,6 @@
          url('fonts/castamere_regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 @font-face {
     font-family: 'dragonstoneregular';
@@ -14,7 +13,6 @@
          url('fonts/dragonstone_regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 @font-face {
     font-family: 'goldengroveregular';
@@ -22,46 +20,26 @@
          url('fonts/goldengrove_regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
-
-
-
-
-
-
 /* fonts  fontawesome (https://fontawesome.com) great thanks to them.*/
-
 .fa-snowboarding,.fa-music,.fa-hiking, .fa-playstation {
     font-size: 3rem;
     text-shadow: -4px 3px 55 white;
 }
-
 .fa-university, .fa-briefcase, .fa-calendar-alt {
     color:#68954b;
     margin-right: 25px;
-    
 }
 .fa-dot-circle {
     color:#68954b;
     margin-right: 15px;
-   
 }
-
 .fa-circle-notch {
     color: #68954b;
     font-size: 0.7rem;
     margin-right: 20px;
-
 }
-
-
-
-
-
-
 /* config generale */
-
 body {
     background: url('images/fond_jaune.png') fixed;
     font-family: 'goldengroveregular','Trebuchet MS', Arial, sans-serif;
@@ -69,42 +47,27 @@ body {
  	margin: auto;
     font-size: 0.8em bold;
 }
-
 a {
     color: white;
     text-decoration: none;
-    
 }
-
 a:hover {
     text-decoration: underline;
     color: black;
     text-shadow: 3px 4px 5px grey;
-
 }
-
 a:focus {
     color: black;
-
 }
-
 a:visited {
     color: black;
     font-weight: bold;
-
 }
-
-
-
 /* corps du cv */
-
 .cv {
-    
     display: flex;
     flex-direction: row;
-
 }
-
 .banner img {
     margin: 20px;
     align-self: center;
@@ -112,32 +75,26 @@ a:visited {
     box-shadow: -5px -3px 92px white;
     height: 213px;
     width: 213px;
-
 }
-
 .banner h3 {
     border: 10px solid #68954b;
     border-radius: 25px;
     background-color: white;
     color: #68954b;
     text-align: center;
-
 }
-
 .banner {
     display: flex;
     flex-direction: column;
     background-color: #68954b;
     max-width: 500px;
 }
-
 .myself {
     padding: 27px;
     text-align: justify;
     color: white;
     flex-grow: 1;
 }
-
 .hobbies {
     font-size: 1.3rem;
     color: white;
@@ -145,139 +102,90 @@ a:visited {
     flex-direction: row;
     justify-content: space-around;
     margin-bottom: 200px;
-
 }
-
 .contact p {  
     margin-left: 17%;
     color: white;
-    
 }
-.contact li
-{   
+.contact li {   
     list-style-type: none;
     color: white;
     margin: 27px;
 }
-
-
 #style {
     text-decoration: underline  #68954b;
-    
-
 }
-.entete{
+.entete {
     text-align: right;
-    margin-right: 13%;
+    margin-right: 40px;
 }
-
 #prenom {
     color: #68954b;
-
 }
-
 #contenucv h1 {
     font-family: 'castamereregular';
     font-size: 3rem;
     margin-bottom:1px;
-
 }
-
 #contenucv h3 {
     font-family: 'dragonstoneregular';
     margin-top: 0px;
     margin-bottom: 100px;
-
 }
-
 #contenucv h2 {
     font-family: 'goldengroveregular';
     width: 95%;
 }
-
 #contenucv {
     margin-left: 50px;
     display: flex;
     flex-direction: column;
     width : 100%;
-    
-    
 }
-
 .titre {
     width: 90%;
     margin-bottom: 1px;
     border-bottom: 1px  solid;
     border-color: #68954b;
-   
 }
-
 .date {
     font-size: 0.8rem;
     width: 200px;
     margin-bottom: 5px;
     margin-left: 0;
-
 }
-
 .job {
     margin: 60px;
     font-weight: bold;
-
 }
-
 .dip {
     font-size: 0.9rem;
     width: 500px;
     margin-bottom: 15px; 
     margin-left: 110px;
     list-style-type: none;
-    
 }
 .xp {
     margin-bottom: 10px;
-
 }
-
 .xp li {
     display: flex;
     flex-direction: row;
-     
-    
 }
-
 .xp ul, .xp li {
     padding-left: 0;
-
 }
-
 .xp p {
     margin: 0.4rem;
-
 }
-
-
-
 .reco {
    display: flex;
    flex-direction: row;
-    
 }
-
 .title{
     text-decoration: underline #68954b;
-    
 }
-
 .know {
     padding-right: 40px;
     margin-bottom: 5%;
-   
 }
-
-
-
-
-
-
-
