@@ -48,19 +48,21 @@ body {
     font-size: 0.8em bold;
 }
 a {
-    color: whitesmoke;
+    margin-left: 9.9px;
+    color: royalblue;
     text-decoration: none;
 }
 a:hover {
-    text-decoration: dotted;
-    color: black;
+    font-style: oblique;
+    text-decoration: blink bold;
+    color: #706f3b;
     text-shadow: 3px 4px 5px darkgrey;
 }
 a:focus {
-    color: black;
+    color: floralwhite;
 }
 a:visited {
-    color: black;
+    color: #706f3b;
     font-weight: bold;
 }
 /* corps du cv */
@@ -90,10 +92,9 @@ a:visited {
     max-width: 500px;
 }
 .myself {
-    padding: 27px;
+    padding: 13px;
     text-align: justify;
     color: white;
-    flex-grow: 1;
 }
 .hobbies {
     font-size: 1.3rem;
