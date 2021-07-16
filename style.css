@@ -23,7 +23,7 @@
 }
 /* fonts  fontawesome (https://fontawesome.com) great thanks to them.*/
 .fa-snowboarding, .fa-music, .fa-hiking, .fa-playstation, .fa-linux{
-    font-size: 3.2em;
+    font-size: 2em;
     text-shadow: -7px 5px 35px antiquewhite;
 }
 .fa-university, .fa-briefcase, .fa-calendar-alt {
@@ -81,7 +81,7 @@ a:visited {
     margin: 20px;
     align-self: center;
     border-radius: 50%;
-    box-shadow: -5px -3px 92px floralwhite;
+    box-shadow: -5px -3px 92px antiquewhite;
     height: 213px;
     width: 213px;
 }
@@ -106,7 +106,7 @@ a:visited {
     flex-grow: 1;
     padding: 13px;
     text-align: justify;
-    color: white;
+    color: whitesmoke;
 }
 .hobbies {
     font-size: 1.3rem;
