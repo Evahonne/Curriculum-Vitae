@@ -107,7 +107,6 @@ a:visited {
     padding: 13px;
     text-align: justify;
     color: whitesmoke;
-    font-size: 1.5em;
 }
 .hobbies {
     font-size: 1.3rem;
@@ -173,7 +172,6 @@ a:visited {
 .job {
     margin: 60px;
     font-weight: bold;
-    font-size: 1.3em;
 }
 .dip {
     font-size: 0.9rem;
