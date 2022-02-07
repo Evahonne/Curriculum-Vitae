@@ -1,0 +1,273 @@
+    /* fonts  fontawesome (https://fontawesome.com) great thanks to them.*/
+    
+    .fa-snowboarding,
+    .fa-music,
+    .fa-hiking,
+    .fa-playstation,
+    .fa-linux {
+        font-size: 6.5rem;
+        text-shadow: -7px 5px 35px #95a6ca;
+    }
+    
+    .fa-university,
+    .fa-briefcase,
+    .fa-calendar-alt {
+        color: #68954b;
+        font-size: 1.8em;
+        margin-right: 24%;
+    }
+    
+    .fa-dot-circle {
+        color: #68954b;
+        margin-right: 9px;
+    }
+    
+    .fa-circle-notch {
+        color: #68954b;
+        font-size: 0.65em;
+        margin-right: 9px;
+    }
+    
+    .fa-jedi-order {
+        font-size: 1.3em;
+        text-shadow: 5px -3px 25px #f0dfbc;
+    }
+    /* General configuration */
+    
+    body {
+        background-color: #f0dfbc;
+        color: #0d2d49;
+        margin: auto;
+    }
+    
+    li {
+        list-style-type: none;
+        margin-top: 0.4em;
+    }
+    
+    a {
+        text-decoration: bold;
+    }
+    
+    a:hover {
+        margin-left: 5px;
+        font-style: oblique;
+        text-decoration: bold;
+        color: #302212;
+        text-shadow: -5px -5px 3px 9px darkgrey;
+    }
+    
+    a:focus {
+        color: #302212;
+    }
+    
+    a:visited {
+        color: #1b5a28;
+        font-weight: bold;
+        font-size: 1.7em;
+    }
+    
+    progress {
+        margin: 10px;
+        background-color: #f0dfbc;
+        border-radius: 5px;
+        max-height: 0.7rem;
+    }
+    /* Curriculum Body */
+    
+    .cv {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .banner img {
+        margin: 20px;
+        align-self: center;
+        border-radius: 39%;
+        box-shadow: -5px -3px 92px #f0dfbc;
+        height: 213px;
+        width: 213px;
+        opacity: 0.73;
+    }
+    
+    .banner h3 {
+        font-size: 1.5em;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin: 10%;
+        border: 10px #68954b;
+        border-radius: 25px;
+        background-color: #f0dfbc;
+        color: #68954b;
+        text-align: left;
+    }
+    
+    .banner {
+        max-width: 700px;
+        display: flex;
+        flex-direction: column;
+        background-color: #68954b;
+    }
+    
+    .myself {
+        flex-grow: 1;
+        padding: 11px;
+        text-align: justify;
+        color: #f0dfbc;
+    }
+    
+    .moi {
+        text-align: center;
+        color: #68954b;
+        border: 10px solid #68954b;
+        border-radius: 25px;
+        background-color: #daccb0;
+        padding: 10px;
+    }
+    
+    .hobbies {
+        font-size: 1.3rem;
+        height: 13%;
+        color: #f0dfbc;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        margin-bottom: 5%;
+    }
+    
+    .contact p {
+        margin-left: 17%;
+        color: #f0dfbc;
+    }
+    
+    #style {
+        text-decoration: underline #68954b;
+    }
+    
+    .entete {
+        text-align: left;
+        margin-left: 20%;
+    }
+    
+    #prenom {
+        color: #68954b;
+    }
+    
+    #contenucv h1 {
+        font-size: 4rem;
+        margin-bottom: 1px;
+    }
+    
+    #contenucv h3 {
+        font-size: 2rem;
+        margin-top: 1.5px;
+        margin-bottom: 50px;
+        padding-bottom: 10px;
+    }
+    
+    #contenucv h2 {
+        width: 99%;
+    }
+    
+    #contenucv {
+        margin-left: 3.3%;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .titre {
+        margin-bottom: 3.3px;
+        border-bottom: 3.3px solid;
+        border-color: #68954b;
+    }
+    
+    .date {
+        font-size: 0.99rem;
+        width: 25%;
+    }
+    
+    .job {
+        margin: 1.3rem;
+        margin-left: none;
+        font-weight: bold;
+    }
+    
+    .dip {
+        font-size: 1rem;
+        width: 88.5%;
+        margin-bottom: 15px;
+        margin-left: 70px;
+        list-style-type: none;
+    }
+    
+    .xp {
+        margin-bottom: 5px;
+    }
+    
+    .xp li {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .xp p {
+        margin: 0.4rem;
+    }
+    
+    .comp1 {
+        padding-top: 1rem;
+        max-width: 400px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+    
+    .comp {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    
+    .comp h4 {
+        align-self: center;
+        text-decoration: underline #68954b;
+    }
+    
+    .comptype {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .comp_type1 {
+        width: 400px;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .title {
+        text-decoration: underline #68954b;
+    }
+    
+    .know {
+        width: 200px;
+    }
+    
+    .os_soft {
+        width: 50%;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .ide {
+        width: 255px;
+    }
+    
+    .os {
+        width: 180px;
+    }
+    
+    .ide-os {
+        display: flex;
+        flex-direction: row;
+    }
