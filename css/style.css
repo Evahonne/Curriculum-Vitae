@@ -226,7 +226,7 @@
     .comp {
         display: flex;
         flex-direction: row;
-        justify-content: space-evenly;
+        justify-content: space-around;
     }
     
     .comp h4 {
@@ -237,6 +237,10 @@
     .comptype {
         display: flex;
         flex-direction: row;
+    }
+    
+    .comp1 {
+        width: 45%;
     }
     
     .comp_type1 {
@@ -250,7 +254,7 @@
     }
     
     .know {
-        width: 200px;
+        width: 178px;
     }
     
     .os_soft {
