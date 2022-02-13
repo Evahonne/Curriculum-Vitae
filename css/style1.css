@@ -1,56 +1,56 @@
-                                @media screen and (max-width: 1024px) {
-                                    .fa-snowboarding,
-                                    .fa-music,
-                                    .fa-hiking,
-                                    .fa-playstation,
-                                    .fa-linux {
-                                        font-size: 3.2rem;
-                                    }
-                                    .entete {
-                                        margin-left: initial;
-                                        text-align: center;
-                                    }
-                                    .banner {
-                                        max-width: initial;
-                                    }
-                                    .contact {
-                                        font-size: 1.2em;
-                                    }
-                                    .cv {
-                                        flex-direction: column-reverse;
-                                    }
-                                    #contenucv {
-                                        margin: 3%;
-                                        width: 95%;
-                                    }
-                                    #contenucv h1 {
-                                        font-size: 1.7em;
-                                    }
-                                    #contenucv h3 {
-                                        font-size: 0.95em;
-                                        margin-bottom: 20px;
-                                    }
-                                    .titre {
-                                        font-size: 1em;
-                                        text-align: initial;
-                                        padding-bottom: 1em;
-                                    }
-                                    .reco {
-                                        flex-direction: column;
-                                        font-size: 0.9em;
-                                        margin: 10px;
-                                    }
-                                    .title {
-                                        border-radius: 1%;
-                                    }
-                                    /* responsive qualifs */
-                                    .comp {
-                                        flex-direction: column;
-                                    }
-                                    .os_soft {
-                                        flex-direction: column;
-                                    }
-                                    .know {
-                                        padding-top: 0.3%;
-                                    }
-                                }
+ @media screen and (max-width: 1024px) {
+     .fa-snowboarding,
+     .fa-music,
+     .fa-hiking,
+     .fa-playstation,
+     .fa-linux {
+         font-size: 3.2rem;
+     }
+     .entete {
+         margin-left: initial;
+         text-align: center;
+     }
+     .banner {
+         max-width: initial;
+     }
+     .contact {
+         font-size: 1.2em;
+     }
+     .cv {
+         flex-direction: column-reverse;
+     }
+     #contenucv {
+         margin: 3%;
+         width: 95%;
+     }
+     #contenucv h1 {
+         font-size: 1.7em;
+     }
+     #contenucv h3 {
+         font-size: 0.95em;
+         margin-bottom: 20px;
+     }
+     .titre {
+         font-size: 1em;
+         text-align: initial;
+         padding-bottom: 1em;
+     }
+     .reco {
+         flex-direction: column;
+         font-size: 0.9em;
+         margin: 10px;
+     }
+     .title {
+         border-radius: 1%;
+     }
+     /* responsive qualifs */
+     .comp {
+         flex-direction: column;
+     }
+     .os_soft {
+         flex-direction: column;
+     }
+     .know {
+         padding-top: 0.3%;
+     }
+ }
