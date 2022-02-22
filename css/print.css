@@ -3,4 +3,7 @@
         min-height: 100vh;
         min-width: 100vh;
     }
+    p {
+        font-size: 1.09rem;
+    }
 }
