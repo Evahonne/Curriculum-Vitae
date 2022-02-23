@@ -68,10 +68,11 @@
     }
     
     progress {
-        margin: 10px;
+        color: #17d440;
+        margin: 2%;
         background-color: #f0dfbc;
-        border-radius: 5px;
-        max-height: 0.7rem;
+        border-radius: 8px;
+        max-height: 0.5rem;
     }
     /* Curriculum Body */
     
