@@ -105,7 +105,7 @@
     }
     
     .banner {
-        max-width: 700px;
+        max-width: 500px;
         display: flex;
         flex-direction: column;
         background-color: #68954b;
@@ -239,12 +239,7 @@
         flex-direction: row;
     }
     
-    .comp1 {
-        width: 45%;
-    }
-    
     .comp_type1 {
-        width: 400px;
         display: flex;
         flex-direction: row;
     }
@@ -254,24 +249,20 @@
     }
     
     .know {
-        width: 178px;
+        width: 115px;
     }
     
     .os_soft {
-        width: 50%;
+        width: 60%;
         display: flex;
         flex-direction: row;
-    }
-    
-    .ide {
-        width: 255px;
-    }
-    
-    .os {
-        width: 180px;
     }
     
     .ide-os {
         display: flex;
         flex-direction: row;
+    }
+    
+    .os {
+        width: 120px;
     }
