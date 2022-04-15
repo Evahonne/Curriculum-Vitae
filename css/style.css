@@ -29,6 +29,7 @@
     }
     
     .fa-jedi-order {
+        margin-left: 20px;
         font-size: 1.3em;
         text-shadow: 5px -3px 25px #f0dfbc;
     }
@@ -38,6 +39,12 @@
         background-color: #f0dfbc;
         color: #0d2d49;
         margin: auto;
+    }
+    
+    h5 {
+        text-decoration: underline #f0dfbc;
+        margin-top: 33px;
+        text-align: center;
     }
     
     li {
@@ -65,14 +72,6 @@
         color: #1b5a28;
         font-weight: bold;
         font-size: 1.7em;
-    }
-    
-    progress {
-        color: #17d440;
-        margin: 2%;
-        background-color: #f0dfbc;
-        border-radius: 8px;
-        max-height: 0.5rem;
     }
     /* Curriculum Body */
     
@@ -119,6 +118,7 @@
     }
     
     .moi {
+        color: #f0dfbc;
         text-align: center;
         color: #68954b;
         border: 10px solid #68954b;
@@ -137,7 +137,7 @@
         margin: 5%;
     }
     
-    .contact p {
+    .contact {
         margin-left: 17%;
         color: #f0dfbc;
     }
@@ -168,7 +168,7 @@
     }
     
     #contenucv h2 {
-        width: 99%;
+        width: 95%;
     }
     
     #contenucv {
