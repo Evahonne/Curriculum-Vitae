@@ -119,6 +119,7 @@
     
     .contact h4 {
         text-align: center;
+        color: #fff;
     }
     
     .myself {
@@ -233,7 +234,6 @@
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         justify-self: left;
-        grid-gap: 2rem;
     }
     
     .container h4 {
