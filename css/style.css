@@ -119,7 +119,11 @@
     
     .contact h4 {
         text-align: center;
+<<<<<<< HEAD
+        color: #f0dfbc;
+=======
         color: #fff;
+>>>>>>> a77a715b8ad9e12fb76fbf1537a0d7aa29817e2f
     }
     
     .myself {
