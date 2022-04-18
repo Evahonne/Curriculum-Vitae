@@ -53,4 +53,9 @@
      .know {
          padding-top: 0.3%;
      }
+     .menu-grid {
+         display: grid;
+         grid-template-columns: repeat(1, 4fr);
+         justify-self: left;
+     }
  }
