@@ -49,10 +49,11 @@
     
     li {
         list-style-type: none;
-        margin-top: 0.4em;
+        margin-top: 0.33rem;
     }
     
     a {
+        color: white;
         text-decoration: bold;
     }
     
@@ -65,13 +66,13 @@
     }
     
     a:focus {
-        color: #302212;
+        color: #794913;
     }
     
     a:visited {
-        color: #1b5a28;
+        color: #ffffff;
         font-weight: bold;
-        font-size: 1.7em;
+        font-size: 2rem;
     }
     /* Curriculum Body */
     
@@ -110,6 +111,16 @@
         background-color: #68954b;
     }
     
+    .contact li {
+        margin-top: 0.6rem;
+        font-size: 1.2rem;
+        margin-left: 3rem;
+    }
+    
+    .contact h4 {
+        text-align: center;
+    }
+    
     .myself {
         flex-grow: 1;
         padding: 11px;
@@ -135,11 +146,6 @@
         justify-content: space-evenly;
         align-items: center;
         margin: 5%;
-    }
-    
-    .contact {
-        margin-left: 17%;
-        color: #f0dfbc;
     }
     
     #style {
@@ -215,35 +221,6 @@
         margin: 0.4rem;
     }
     
-    .comp1 {
-        padding-top: 1rem;
-        max-width: 400px;
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-start;
-    }
-    
-    .comp {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-    }
-    
-    .comp h4 {
-        align-self: center;
-        text-decoration: underline #68954b;
-    }
-    
-    .comptype {
-        display: flex;
-        flex-direction: row;
-    }
-    
-    .comp_type1 {
-        display: flex;
-        flex-direction: row;
-    }
-    
     .title {
         text-decoration: underline #68954b;
     }
@@ -252,17 +229,15 @@
         width: 100px;
     }
     
-    .os_soft {
-        width: 60%;
-        display: flex;
-        flex-direction: row;
+    .menu-grid {
+        display: grid;
+        grid-template-rows: repeat(1, 1fr);
+        grid-template-columns: repeat(4, 1fr);
+        justify-self: left;
+        grid-gap: 2rem;
     }
     
-    .ide-os {
-        display: flex;
-        flex-direction: row;
-    }
-    
-    .os {
-        width: 97px;
+    .container h4 {
+        Text-align: center;
+        text-decoration: underline #68954b;
     }
