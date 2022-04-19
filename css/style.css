@@ -110,7 +110,7 @@
     }
     
     .banner {
-        max-width: 500px;
+        max-width: 450px;
         display: flex;
         flex-direction: column;
         background-color: #68954b;
@@ -220,6 +220,7 @@
     }
     
     .job {
+        font-size: 0.9rem;
         margin: 1.3rem;
         margin-left: none;
         font-weight: bold;
@@ -255,9 +256,11 @@
     }
     
     .menu-grid {
+        font-size: 0.9rem;
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         justify-self: left;
+        justify-content: space-evenly;
     }
     
     .container h5 {
