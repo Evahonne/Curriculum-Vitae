@@ -81,13 +81,18 @@
         flex-direction: row;
     }
     
+    .qr img {
+        width: 133px;
+        height: 133px;
+    }
+    
     .banner img {
         margin: 20px;
         align-self: center;
         border-radius: 39%;
         box-shadow: -5px -3px 92px #f0dfbc;
-        height: 213px;
-        width: 213px;
+        height: 199px;
+        width: 199px;
         opacity: 0.73;
     }
     
@@ -137,6 +142,25 @@
         border-radius: 25px;
         background-color: #daccb0;
         padding: 10px;
+    }
+    
+    .walle {
+        margin: 20px;
+        align-self: center;
+        border-radius: 39%;
+        box-shadow: -5px -3px 92px #f0dfbc;
+        height: 288px;
+        width: px;
+        opacity: 0.73;
+    }
+    
+    .qr {
+        visibility: hidden;
+    }
+    
+    .qrc {
+        display: flex;
+        flex-direction: row;
     }
     
     .hobbies {
