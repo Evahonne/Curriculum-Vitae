@@ -6,13 +6,31 @@
                 .fa-linux {
                     font-size: 2.5rem;
                 }
+                p {
+                    font-size: 0.65rem;
+                }
                 body {
-                    font-size: 0.7rem;
-                    height: 80vh;
-                    width: 90vh;
+                    height: 100vh;
+                    width: 100vh;
                 }
                 .banner {
-                    width: 27%;
+                    max-width: 350px;
+                }
+                #contenucv h1 {
+                    font-size: 2.5rem;
+                    margin-bottom: 1px;
+                }
+                #contenucv h3 {
+                    font-size: 1.25rem;
+                    margin-top: 1.5px;
+                    margin-bottom: initial;
+                    padding-bottom: initial;
+                }
+                .dip {
+                    margin-bottom: initial;
+                }
+                .job {
+                    margin: initial;
                 }
                 /* qr {
                     visibility: visible;

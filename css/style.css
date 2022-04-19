@@ -5,7 +5,7 @@
     .fa-hiking,
     .fa-playstation,
     .fa-linux {
-        font-size: 5rem;
+        font-size: 3.5rem;
         text-shadow: -7px 5px 35px #95a6ca;
     }
     
@@ -110,7 +110,7 @@
     }
     
     .banner {
-        max-width: 450px;
+        max-width: 425px;
         display: flex;
         flex-direction: column;
         background-color: #68954b;
