@@ -53,7 +53,7 @@
     }
     
     a {
-        color: white;
+        color: #f0dfbc;
         text-decoration: bold;
     }
     
@@ -61,8 +61,8 @@
         margin-left: 5px;
         font-style: oblique;
         text-decoration: bold;
-        color: #302212;
-        text-shadow: -5px -5px 3px 9px darkgrey;
+        color: #4d28bb;
+        text-shadow: -5px -5px 3px 9px rgb(121, 93, 93);
     }
     
     a:focus {
@@ -70,7 +70,7 @@
     }
     
     a:visited {
-        color: #ffffff;
+        color: #f0dfbc;
         font-weight: bold;
         font-size: 2rem;
     }
@@ -81,13 +81,18 @@
         flex-direction: row;
     }
     
+    .qr img {
+        width: 133px;
+        height: 133px;
+    }
+    
     .banner img {
         margin: 20px;
         align-self: center;
         border-radius: 39%;
         box-shadow: -5px -3px 92px #f0dfbc;
-        height: 213px;
-        width: 213px;
+        height: 199px;
+        width: 199px;
         opacity: 0.73;
     }
     
@@ -137,6 +142,25 @@
         border-radius: 25px;
         background-color: #daccb0;
         padding: 10px;
+    }
+    
+    .walle {
+        margin: 20px;
+        align-self: center;
+        border-radius: 39%;
+        box-shadow: -5px -3px 92px #f0dfbc;
+        height: 288px;
+        width: px;
+        opacity: 0.73;
+    }
+    
+    .qr {
+        visibility: hidden;
+    }
+    
+    .qrc {
+        display: flex;
+        flex-direction: row;
     }
     
     .hobbies {
@@ -234,6 +258,10 @@
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         justify-self: left;
+    }
+    
+    .container h5 {
+        margin: 0;
     }
     
     .container h4 {
