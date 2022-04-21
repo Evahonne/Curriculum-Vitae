@@ -259,7 +259,8 @@
         font-size: 0.9rem;
         display: grid;
         grid-template-columns: repeat(4, 1fr);
-        margin-right: 10%;
+        margin-right: 7%;
+        margin-bottom: 10px;
     }
     
     .container h5 {
