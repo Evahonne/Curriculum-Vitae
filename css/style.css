@@ -259,8 +259,7 @@
         font-size: 0.9rem;
         display: grid;
         grid-template-columns: repeat(4, 1fr);
-        justify-self: left;
-        justify-content: space-evenly;
+        margin-right: 10%;
     }
     
     .container h5 {
