@@ -38,7 +38,7 @@
     
     body {
         background-color: #f0dfbc;
-        color: #0d2d49;
+        color: #285379;
         margin: auto;
     }
     
@@ -144,11 +144,6 @@
         visibility: hidden;
     }
     
-    .qrc {
-        display: flex;
-        flex-direction: row;
-    }
-    
     .hobbies {
         font-size: 1.3rem;
         color: #f0dfbc;
@@ -174,7 +169,6 @@
     
     #contenucv h1 {
         font-size: 4rem;
-        margin-bottom: 1px;
     }
     
     #contenucv h3 {
@@ -190,7 +184,6 @@
     
     #contenucv {
         width: 70%;
-        margin-left: 3.3%;
         display: flex;
         flex-direction: column;
     }
@@ -208,7 +201,6 @@
     
     .job {
         font-size: 0.9rem;
-        margin: 1.3rem;
         margin-left: none;
         font-weight: bold;
     }
@@ -228,10 +220,6 @@
     .xp li {
         display: flex;
         flex-direction: row;
-    }
-    
-    .xp p {
-        margin: 0.4rem;
     }
     
     .title {

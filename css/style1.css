@@ -16,7 +16,6 @@
          font-size: 1.2em;
      }
      .cv {
-         margin: 2%;
          flex-direction: column-reverse;
      }
      #contenucv {
