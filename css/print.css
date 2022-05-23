@@ -15,7 +15,7 @@
                     width: 100vh;
                 }
                 .banner {
-                    max-width: 350px;
+                    max-width: 100%;
                 }
                 .banner img {
                     display: none;
