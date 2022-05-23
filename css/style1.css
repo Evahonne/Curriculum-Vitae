@@ -10,12 +10,13 @@
          text-align: center;
      }
      .banner {
-         max-width: initial;
+         max-width: 100%;
      }
      .contact {
          font-size: 1.2em;
      }
      .cv {
+         margin: 2%;
          flex-direction: column-reverse;
      }
      #contenucv {
