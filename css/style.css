@@ -168,11 +168,11 @@
     }
     
     #contenucv h1 {
-        font-size: 4rem;
+        font-size: 7rem;
     }
     
     #contenucv h3 {
-        font-size: 2rem;
+        font-size: 3.5rem;
         margin-top: 1.5px;
         margin-bottom: 50px;
         padding-bottom: 10px;
@@ -183,7 +183,8 @@
     }
     
     #contenucv {
-        width: 70%;
+        margin-left: 5%;
+        width: 75%;
         display: flex;
         flex-direction: column;
     }
