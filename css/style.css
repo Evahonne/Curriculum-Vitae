@@ -7,13 +7,13 @@
     .fa-linux,
     .fa-laptop-code {
         font-size: 3.3rem;
-        text-shadow: -7px 5px 59px #adc2f0;
+        text-shadow: -7px 5px 59px #68954b;
     }
     
-    .fa-university,
-    .fa-briefcase,
-    .fa-calendar-alt {
-        color: #3d5a2a;
+    .fa-graduation-cap,
+    .fa-wallet,
+    .fa-check-double {
+        color: #285379;
         font-size: 1.8em;
         margin-right: 24%;
     }
@@ -68,7 +68,7 @@
         font-style: oblique;
         text-decoration: bold;
         color: #c9c3db;
-        text-shadow: -5px -5px 3px 9px rgb(231, 201, 201);
+        text-shadow: -15px -5px 3px 9px #bd7878;
     }
     
     a:focus {
