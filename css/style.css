@@ -30,8 +30,9 @@
     }
     
     .fa-jedi-order {
-        margin-left: 20px;
-        font-size: 1.3em;
+        margin-right: 20px;
+        margin-left: 199px;
+        font-size: 2rem;
         text-shadow: 5px -3px 25px #f0dfbc;
     }
     /* General configuration */
@@ -135,8 +136,7 @@
     }
     
     .moi {
-        color: #f0dfbc;
-        text-align: center;
+        margin-left: 13px;
         color: #68954b;
         border: 10px solid #68954b;
         border-radius: 25px;
