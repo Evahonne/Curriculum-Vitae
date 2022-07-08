@@ -136,7 +136,8 @@
     }
     
     .moi {
-        margin-left: 13px;
+        margin: 5px;
+        text-align: center;
         color: #68954b;
         border: 10px solid #68954b;
         border-radius: 25px;
