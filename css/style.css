@@ -6,7 +6,7 @@
     .fa-playstation,
     .fa-linux,
     .fa-laptop-code {
-        font-size: 3.3rem;
+        font-size: 3.4rem;
         text-shadow: -7px 5px 59px #68954b;
     }
     
@@ -83,7 +83,7 @@
     }
     
     p {
-        font-size: 1.2rem;
+        font-size: 1.3rem;
     }
     h5{
         font-size: 1.2rem;    
@@ -214,7 +214,7 @@
     }
     
     .job {
-        font-size: 0.9rem;
+        font-size: 1.5rem;
         margin-left: none;
         font-weight: bold;
     }
@@ -248,7 +248,6 @@
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         margin-right: 7%;
-        margin-bottom: 10px;
     }
     
     .menu-grid li {
