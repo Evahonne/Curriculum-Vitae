@@ -1,2 +1,2 @@
 # Curriculum-Vitae
-Curriculum Vitae Développeur Web Fullstack...
+Curriculum Vitae Développeur Web front-end
