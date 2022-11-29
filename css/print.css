@@ -18,7 +18,7 @@
                 .banner {
                     max-width: 25%;
                 }
-                .banner img {
+                #avatar{
                     display: none;
                 }
                 #contenucv h1 {
