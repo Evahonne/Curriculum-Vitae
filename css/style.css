@@ -132,9 +132,7 @@
     }
     
     .myself {
-        flex-grow: 1;
-        padding: 11px;
-        text-align: justify;
+        padding: 3%;
         color: #f0dfbc;
     }
     
@@ -191,7 +189,7 @@
     
     #contenucv {
         margin-right: 2.5%;
-        margin-left: 5%;
+        margin-left: 3%;
         width: 75%;
         display: flex;
         flex-direction: column;
@@ -238,6 +236,7 @@
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         margin-right: 7%;
+        margin-left: 3%;
     }
     
     .menu-grid li {
@@ -256,5 +255,5 @@
     .container li {
         color: #68954b;
         font-weight: bold;
-        font-size: 0.9rem;
+        font-size: 1.2rem;
     }
