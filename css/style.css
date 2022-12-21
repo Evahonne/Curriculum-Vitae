@@ -79,8 +79,9 @@
     p {
         font-size: 1.3rem;
     }
-    h5{
-        font-size: 1.2rem;    
+    
+    h5 {
+        font-size: 1.2rem;
     }
     /* Curriculum Body */
     
@@ -124,7 +125,8 @@
         text-align: center;
     }
     
-    .contact h4,.contact h5 {
+    .contact h4,
+    .contact h5 {
         text-align: center;
         color: #f0dfbc;
     }
@@ -202,7 +204,6 @@
     }
     
     .date {
-        font-size: 0.99rem;
         width: 25%;
     }
     
@@ -233,10 +234,6 @@
         text-decoration: underline #68954b;
     }
     
-    .know {
-        width: 100px;
-    }
-    
     .menu-grid {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
@@ -256,8 +253,8 @@
         text-decoration: underline #68954b;
     }
     
-    .known {
+    .container li {
         color: #68954b;
         font-weight: bold;
-        font-size: 0.8rem;
+        font-size: 0.9rem;
     }

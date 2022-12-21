@@ -49,12 +49,21 @@
      .os_soft {
          flex-direction: column;
      }
-     .know {
-         padding-top: 0.3%;
-     }
      .menu-grid {
          display: grid;
          grid-template-columns: repeat(1, 4fr);
          justify-self: left;
+     }
+     .entete {
+         font-size: 1.4rem;
+     }
+     .date {
+         font-size: 0.8rem;
+     }
+     .job {
+         font-size: 0.99rem;
+     }
+     .dip p {
+         font-size: 0.85rem;
      }
  }
