@@ -171,7 +171,7 @@
     #prenom {
         color: #68954b;
     }
-    
+
     #contenucv h1 {
         font-size: 4.5rem;
     }
@@ -263,6 +263,7 @@
     
     .container h4 {
         text-decoration: underline #68954b;
+        margin-left: 3rem;
     }
     .container h5{
         margin-left: 92px ;
@@ -272,4 +273,8 @@
         color: #68954b;
         font-weight: bold;
         font-size: 1.2rem;
+    }
+    .container{
+        border-left:2.3px dotted #68954b;
+        margin-top: 1.5rem;
     }
