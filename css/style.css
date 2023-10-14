@@ -259,9 +259,12 @@
     .menu-grid li {
         font-size: 1.2rem;
     }
-    
-    
+    .container{
+        border-left: dotted 2px #5a8f5a;
+        margin-left: 1.5rem;
+    }
     .container h4 {
+        margin-left: 3rem;
         text-decoration: underline #68954b;
     }
     .container h5{
