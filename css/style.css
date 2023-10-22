@@ -39,7 +39,7 @@
     /* General configuration */
     
     body {
-        background-color: #f0dfbc;
+        background-color: #eadec9;
         color: #285379;
         margin: auto;
     }
@@ -240,7 +240,7 @@
         margin-left: 0.8rem;
     }
 
-    
+     
     .xp li {
         display: flex;
         flex-direction: row;
@@ -249,10 +249,19 @@
     .title {
         text-decoration: underline #68954b;
     }
-    
+    .guillaume {
+        display: flex;
+        flex-direction: row;
+    }
+    .potentiel {
+        margin-right: 4.5rem;
+    }
+    .entete{
+        flex-grow: 1;
+    }
     .menu-grid {
         display: grid;
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(3, 1fr);
         margin-right: 7%;
         margin-left: 3%;
     }
@@ -260,8 +269,9 @@
     .menu-grid li {
         font-size: 1.3rem;
     }
+    
     .container{
-        border-left: dotted 2px #5a8f5a;
+        vertical-align: center;
         margin-left: 1.5rem;
     }
     .container h4 {
