@@ -147,7 +147,7 @@
         padding: 10px;
     }
     
-   //* .qr {
+    .qr {
         visibility: hidden;
     }
     
@@ -160,7 +160,7 @@
         align-items: center;
         margin: 5%;
     }
-    *//
+    
     #style {
         text-decoration: underline #68954b;
     }
